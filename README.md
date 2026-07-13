@@ -14,9 +14,9 @@
 
 ### 👁️ Sobre mí
 
-Soy productora multimedia en transición activa hacia el desarrollo de videojuegos. Vengo del pixel art, el branding y la ilustración digital, y ahora estoy afinando esas mismas habilidades hacia sistemas jugables: composición, ritmo y cómo un espacio guía la atención de alguien.
-
+Soy productora multimedia en transición activa hacia el desarrollo de videojuegos. Vengo del pixel art, el branding y la ilustración digital, y ahora estoy afinando esas mismas habilidades hacia sistemas jugables: composición, ritmo y cómo un espacio guía la atención de alguien. 
 Actualmente curso el bootcamp de **Game Development en Generation Colombia**, con foco en **diseño narrativo** y **diseño de UI**.
+
 ---
 
 ### 🚧 Proyectos destacados
