@@ -71,6 +71,16 @@ Estoy buscando integrarme a un equipo donde pueda aportar diseño narrativo y de
 
 ---
 
+<h2 align="center">GitHub</h2>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=laurarojaspardo-dot&show_icons=true&theme=tokyonight&hide_border=true" alt="Estadísticas de GitHub de Laura Rojas Pardo" height="165">
-</p>
+  <table align="center">
+    <tr border="none">
+      <td width="60%" align="center">
+        <img  alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=laurarojaspardo-dot&theme=dark&hide_border=false"/> 
+      </td>
+      <td width="40%" align="center">
+        <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=laurarojaspardo-dot&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
+      </td>
+    </tr>
+  </table>
+</p>      
