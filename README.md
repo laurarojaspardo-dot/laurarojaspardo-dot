@@ -1,6 +1,6 @@
 <h1 align="center">👋 ¡Hola, soy Laura Katherinne Rojas Pardo!</h1>
 
-<p align="center"><i>Game Developer · Game Designer · Level Designer</i></p>
+<p align="center"><i>Game Developer · Game Designer · UI Designer</i></p>
 
 <p align="center">
 📍 Bogotá, Colombia &nbsp;·&nbsp;
@@ -13,22 +13,22 @@
 
 ### 🍽️ Sobre mí
 
-Soy productora multimedia en transición activa hacia el desarrollo de videojuegos. Vengo del pixel art, el branding y la ilustración digital, y ahora estoy afinando esas mismas habilidades hacia sistemas jugables: composición, ritmo, y cómo un espacio guía la atención de alguien.
+Soy productora multimedia en transición activa hacia el desarrollo de videojuegos. Vengo del pixel art, el branding y la ilustración digital, y ahora estoy afinando esas mismas habilidades hacia sistemas jugables: composición, ritmo y cómo un espacio guía la atención de alguien.
 
-Actualmente curso el bootcamp de **Game Development en Generation Colombia**, con foco en **diseño narrativo** y **diseño de niveles** — sobre todo en juegos de plataformas, donde cada obstáculo cuenta algo sobre el mundo que lo rodea.
+Actualmente curso el bootcamp de **Game Development en Generation Colombia**, con foco en **diseño narrativo** y **diseño de niveles**, sobre todo en juegos de plataformas, donde cada obstáculo cuenta algo sobre el mundo que lo rodea.
 
 ---
 
 ### 🚧 Proyectos destacados
 
 #### 🧪 Toxic Delicacies
-Juego de inspección y memoria en primera persona, desarrollado para un la game jam **MadeToBePlayed** con el tema *"tóxico"*. Un catador forzado debe identificar qué **combinaciones** de ingredientes son tóxicas — no ingredientes aislados — dentro de un mundo post-apocalíptico.
+Juego de inspección y memoria en primera persona, desarrollado para la game jam **MadeToBePlayed** con el tema *"tóxico"*. Un catador forzado debe identificar qué **combinaciones** de ingredientes son tóxicas — no ingredientes aislados — dentro de un mundo posapocalíptico.
 - Diseño de narrativa.
 - Creación de assets.
 - 🔗 [Jugar en itch.io](https://mmsiak.itch.io/toxic-delicacies)
 
 #### 🐦 Flammy Jim
-Endless flyer propio, construido sobre la base de Flappy Bird: identidad visual rediseñada.
+Endless Flyer propio, construido sobre la base de Flappy Bird: identidad visual rediseñada.
 - Diseño, arte y programación end-to-end
 - 🔗 [Jugar en itch.io](https://kath-4.itch.io/) &nbsp;·&nbsp; [Repositorio](https://github.com/laurarojaspardo-dot)
 
@@ -60,12 +60,10 @@ Endless flyer propio, construido sobre la base de Flappy Bird: identidad visual 
 
 Estoy buscando integrarme a un equipo donde pueda aportar diseño narrativo y de niveles desde el día uno, y seguir creciendo técnicamente en Unity y C#. Abierta a colaboraciones en game jams, procesos de selección y proyectos donde el diseño y la implementación estén cerca.
 
-> *"Diseñar un nivel es escribir un argumento que se recorre, no que se lee."*
-
 ---
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=laurarojaspardo-dot&show_icons=true&theme=tokyonight&hide_border=true" alt="Estadísticas de GitHub de Laura Rojas Pardo" height="165">
 </p>
 
-<p align="center"><i>Portafolio completo: próximamente en GitHub Pages 🔗</i></p>
+<p align="center"><i>Portafolio completo: (https://laurarojaspardo-dot.github.io/Portfolio/) 🔗</i></p>
