@@ -4,10 +4,10 @@
 
 <p align="center">
 📍 Bogotá, Colombia &nbsp;·&nbsp;
-📧 <a href="mailto:laura.rojaspardo@gmail.com" target="_blank">laura.rojaspardo@gmail.com</a> &nbsp;·&nbsp;
-💼 <a href="https://www.linkedin.com/in/laura-katherinne-rojas-pardo" target="_blank">LinkedIn</a> &nbsp;·&nbsp;
-💻 <a href="https://laurarojaspardo-dot.github.io/Portfolio/" target="_blank">Portfolio</a> &nbsp;·&nbsp;
-🎮 <a href="https://kath-4.itch.io/" target="_blank">itch.io</a>
+📧 <a href="mailto:laura.rojaspardo@gmail.com">laura.rojaspardo@gmail.com</a> &nbsp;·&nbsp;
+💼 <a href="https://www.linkedin.com/in/laura-katherinne-rojas-pardo">LinkedIn</a> &nbsp;·&nbsp;
+💻 <a href="https://laurarojaspardo-dot.github.io/Portfolio/">Portfolio</a> &nbsp;·&nbsp;
+🎮 <a href="https://kath-4.itch.io/">itch.io</a>
 </p>
 
 ---
